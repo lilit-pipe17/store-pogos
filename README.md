@@ -20,10 +20,9 @@ To streamline operations and eliminate paper-based processes, we seek an applica
 - Managing rewards for customers with frequent visits
 
 ## What We're Looking For
-Design a data model and API for the order creation and sending paycheck to client.
-The technology stack should include Node.js and Prisma preferred for the database.
+Design a data model and API for the order creation and sending paycheck to client. The technology stack should include Node.js and Prisma preferred for the database.
 
-## Possible Scenarios
+### Possible Scenarios (Optional)
 - Customer management
 - Employee tracking
 - Product inventory management

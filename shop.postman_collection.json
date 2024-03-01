@@ -22,7 +22,7 @@
 			"response": []
 		},
 		{
-			"name": "Get selller",
+			"name": "Get seller",
 			"request": {
 				"method": "GET",
 				"header": []
